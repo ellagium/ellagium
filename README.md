@@ -14,11 +14,8 @@
 
 ###
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-</div>
-
-###
+## 🌐 Socials:
+ [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/oleksiishylin?igsh=MTh0bmpmb2RsbmhrYQ==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/sashakter](https://www.linkedin.com/in/oleksii-s-7806b5367?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)) 
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ellagium&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
